@@ -1,11 +1,17 @@
-### TODO LIST APP WITH REACTJS
+### WORLD TOURS SHOWCASE
 
-> Todo list is an application that helps to organize our activities to get more productive
+> A React App that fetches tours data and display for a dummy purpose 🙂
 
 ## Tools
 > Reactjs
-> Expressjs
+> CSS3
+
+## Live Demo
+[worldtours](https://world-tours-app.netlify.app/)
 
 ## Author
 
-Jodrack
+👤 **Jodrack**
+
+- GitHub: [jodrack07](https://github.com/jodrack07)
+- LinkedIn: [Buingo Joseph](https://www.linkedin.com/in/jodrack/)
